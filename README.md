@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">kmsflow</h1>
 
-<!--
-**kmsflow/kmsflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  ⚙️ Electrical engineering student focused on SoC & Embedded Systems<br/>
+  🧠 Structuring logic, signal flow, and digital architecture through code
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 About Me
+- 💡 Studying structured logic, SoC design, and embedded systems
+- 🔍 Passionate about signal flow, hardware/software co-design, and clean architecture
+- 🛠 Currently building my portfolio using STM32, Verilog, and Gradio
+- 🌍 Based in Korea | Working on bilingual documentation (KR/EN)
+
+---
+
+### 🧩 Interests
+- Digital circuit design, RTL logic, FSM architecture
+- Embedded C, Verilog, and microcontroller-based systems
+- Project-based learning & systems thinking
+
+---
+
+### 🔗 Find Me
+- [🌐 Portfolio (Notion)](https://minseok-kwon.notion.site/KMS-11bd9a47a8a78041854)
+- [💼 LinkedIn](https://www.linkedin.com/in/minseok-kwon)
+
+---
+
+<p align="center">
+  <sub>Built with flow. ⚡</sub>
+</p>
